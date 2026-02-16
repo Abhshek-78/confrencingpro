@@ -1,2 +1,2 @@
 # confrencingpro
-it is video confrencing pro  ,it just a post not real page 
+it is video confrencing pro  ,it just a poster not real page 
